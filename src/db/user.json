@@ -1,0 +1,14 @@
+[
+	{
+		"_id": "5e7d3f5694a75e14f408bdfa",
+		"nombre": "Jose Calderon",
+		"codigo": "234",
+		"tipoMembresia": "cortesia"
+	},
+	{
+		"_id": "5e7fd857ca6d7c47f4e2f0be",
+		"nombre": "Camilo Dominguez Saldaña",
+		"codigo": "232",
+		"tipoMembresia": "invitado"
+	}
+]

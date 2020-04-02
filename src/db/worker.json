@@ -1,0 +1,38 @@
+[
+	{
+		"_id": "5e82ac0ab2893d196c480736",
+		"nombre": "Camilo Andres dominguez Saldaña",
+		"codigo": "m_01",
+		"rol": "monitor"
+	},
+	{
+		"_id": "5e82ac16cb0de92ebcbe6a6c",
+		"nombre": "Jose Castro",
+		"codigo": "m_02",
+		"rol": "monitor"
+	},
+	{
+		"_id": "5e82ac1d4c8a8221108867a5",
+		"nombre": "Pepito Perez",
+		"codigo": "m_03",
+		"rol": "monitor"
+	},
+	{
+		"_id": "5e82ac2ca9a3b61a449e067d",
+		"nombre": "Juan Camacho",
+		"codigo": "p_03",
+		"rol": "profesor"
+	},
+	{
+		"_id": "5e82ac3773982817cc78b0fe",
+		"nombre": "Carlos Mosu",
+		"codigo": "p_02",
+		"rol": "profesor"
+	},
+	{
+		"_id": "5e84b239a9ef212fac928d16",
+		"nombre": "Jose Carssen",
+		"codigo": "p_01",
+		"rol": "profesor"
+	}
+]
